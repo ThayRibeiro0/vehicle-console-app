@@ -1,0 +1,10 @@
+node_modules
+dist
+.idea
+.vscode
+*.log
+*.log.*
+*.log-*
+*.log/*
+*.log-*/        
+.DS_Store
