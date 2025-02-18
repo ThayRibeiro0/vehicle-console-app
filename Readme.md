@@ -18,6 +18,11 @@
 ## Prerequisites
 To run this project, you need to have **Node.js** and **npm** (or **yarn**) installed.
 
+### 🎥 Video Tutorial
+<a href="https://www.loom.com/share/dc5c5fd971c84740b7eea59d98151ac3?sid=49943ffa-b5bd-4d88-b3bb-1fb059577c1a">
+    <img src="vehicle-console-app.png" alt="Vehicle Console App" width="400">
+</a>
+
 ## How to Run
 
 ### 1. Clone the repository:
