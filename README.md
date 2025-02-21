@@ -24,7 +24,7 @@ To run this project, you need to have **Node.js** and **npm** (or **yarn**) inst
 
 ### 🎥 Video Tutorial
 
-<a href="https://www.loom.com/share/dc5c5fd971c84740b7eea59d98151ac3?sid=49943ffa-b5bd-4d88-b3bb-1fb059577c1a">
+<a href="https://www.loom.com/share/4f7df3ed8bba4c21af20907ce55653a6?sid=09626988-a4fd-4e72-b364-4581353a29f5">
     <img src="vehicle-console-app.png" alt="Vehicle Console App" width="400">
 </a>
 
