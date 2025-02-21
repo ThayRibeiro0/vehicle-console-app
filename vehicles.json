@@ -1,0 +1,114 @@
+[
+  {
+    "started": false,
+    "currentSpeed": 0,
+    "wheels": [
+      {
+        "diameter": 18,
+        "tireBrand": "GoodYear"
+      },
+      {
+        "diameter": 18,
+        "tireBrand": "GoodYear"
+      },
+      {
+        "diameter": 18,
+        "tireBrand": "GoodYear"
+      },
+      {
+        "diameter": 18,
+        "tireBrand": "GoodYear"
+      }
+    ],
+    "towingCapacity": 0,
+    "vin": "diti8458cjmy3e7cig0eb",
+    "color": "red",
+    "make": "Ford",
+    "model": "F-150",
+    "year": 2021,
+    "weight": 5000,
+    "topSpeed": 120,
+    "canTow": true
+  },
+  {
+    "started": false,
+    "currentSpeed": 0,
+    "vin": "of1mkplar8syclob6by4z",
+    "color": "blue",
+    "make": "Toyota",
+    "model": "Camry",
+    "year": 2021,
+    "weight": 3000,
+    "topSpeed": 130,
+    "wheels": [
+      {
+        "diameter": 18,
+        "tireBrand": "GoodYear"
+      },
+      {
+        "diameter": 18,
+        "tireBrand": "GoodYear"
+      },
+      {
+        "diameter": 18,
+        "tireBrand": "GoodYear"
+      },
+      {
+        "diameter": 18,
+        "tireBrand": "GoodYear"
+      }
+    ]
+  },
+  {
+    "started": false,
+    "currentSpeed": 0,
+    "vin": "gt8sxth6r5h1qymqu8xshz",
+    "color": "black",
+    "make": "Harley Davidson",
+    "model": "Sportster",
+    "year": 2021,
+    "weight": 500,
+    "topSpeed": 125,
+    "wheels": [
+      {
+        "diameter": 17,
+        "tireBrand": "Michelin"
+      },
+      {
+        "diameter": 17,
+        "tireBrand": "Michelin"
+      }
+    ]
+  },
+  {
+    "started": false,
+    "currentSpeed": 0,
+    "wheels": [
+      {
+        "diameter": 18,
+        "tireBrand": "GoodYear"
+      },
+      {
+        "diameter": 18,
+        "tireBrand": "GoodYear"
+      },
+      {
+        "diameter": 18,
+        "tireBrand": "GoodYear"
+      },
+      {
+        "diameter": 18,
+        "tireBrand": "GoodYear"
+      }
+    ],
+    "towingCapacity": 0,
+    "vin": "j5z95hv0whngr09mfj4mkq",
+    "color": "",
+    "make": "",
+    "model": "",
+    "year": null,
+    "weight": null,
+    "topSpeed": null,
+    "canTow": false
+  }
+]
